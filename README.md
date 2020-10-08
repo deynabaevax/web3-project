@@ -1,8 +1,4 @@
-# Team
--           Ralia Larmonie                 3391655
--           Deyna Baeva                    3595234
--           Nathan Moreira Roque           4114744	
-
+# This is a project that me and my group did for WEB3 subject. We used Laravel framework for it.
 # Usage
 
     Don't forget to configure the .env file to your machine standarts, use the .env.example for this
