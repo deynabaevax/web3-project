@@ -15,26 +15,3 @@
     Password: 12345678
 
      
-
-# Needed Features
-    Seeders
-    .env
-    Use of blade templating
-    Routes
-    Controllers
-    Models
-    Views
-    Migrations
-    CRUD functionality
-    Authentication(login, registration)
-    Authorization (Policy)
-    Form validation
-    Images (profile pic)
-    Export To PDF
-    About Me
-    Profile Page
-    API
-    
-# Extra Features
-    Search functionality
-    Comments
