@@ -1,4 +1,6 @@
-# This is a project that me and my group did for WEB3 subject. We used Laravel framework for it.
+# WEB3 
+    This is a project that me and my group did for WEB3 subject. We used Laravel framework for it.
+    
 # Usage
 
     Don't forget to configure the .env file to your machine standarts, use the .env.example for this
